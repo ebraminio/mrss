@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>درس معادلات دیفرانسيل - مکتب خونه</title>
+    <link>https://maktabkhooneh.org/course/معادلات-دیفرانسيل-mk98/</link>
+    <description>&lt;div class="course-description rich-text"&gt;
+&lt;p&gt;بی شک یکی از مهم ترین دروس رشته های مهندسی و ریاضیات . این درس تلاش میکند تا پدیده های طبیعی را به مدل ریاضی در بیاورد و سپس با کمک تکنیک های مختلف معادله دیفرانسیل مربوطه را حل کند. جواب معادله دیفرانسیل میتواند یک پدیده ی فیزیکی مانند موج ، توزیع حرارت و ... باشد&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;متأسفانه جلسات اول و چهارم ضبط نشده‌است.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://maktabkhooneh.org/media/courses/images/jafari2531385721619.png</url>
+      <title>درس معادلات دیفرانسيل - مکتب خونه</title>
+      <link>https://maktabkhooneh.org/course/معادلات-دیفرانسيل-mk98/</link>
+    </image>
+    <language>fa</language>
+    <lastBuildDate>Sat, 02 May 2020 20:12:48 +0000</lastBuildDate>
+    <item>
+      <title>جلسه بیست نهم - ضربه و تابع دلتای دیراک</title>
+      <description>جلسه بیست نهم - ضربه و تابع دلتای دیراک</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%86%D9%87%D9%85-%D8%B6%D8%B1%D8%A8%D9%87-%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AF%D9%84%D8%AA%D8%A7%DB%8C-%D8%AF%DB%8C%D8%B1%D8%A7%DA%A9/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq127139113912.mp4" length="61044829" type="video/mp4"/>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست هشتم - تبدیل لاپلاس و پیچشی</title>
+      <description>جلسه بیست هشتم - تبدیل لاپلاس و پیچشی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%87%D8%B4%D8%AA%D9%85-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%84%D8%A7%D9%BE%D9%84%D8%A7%D8%B3-%D9%BE%DB%8C%DA%86%D8%B4%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq290546788618.mp4" length="57352435" type="video/mp4"/>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست هفتم - تبدیل لاپلاس و کاربردهای آن در حل معادلات دیفرانسیل</title>
+      <description>جلسه بیست هفتم - تبدیل لاپلاس و کاربردهای آن در حل معادلات دیفرانسیل</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%87%D9%81%D8%AA%D9%85-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%84%D8%A7%D9%BE%D9%84%D8%A7%D8%B3-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%A2%D9%86-%D8%AD%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq566047288879.mp4" length="57208197" type="video/mp4"/>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست ششم - روش تغییر پارامتر و پایداری جواب های معادله</title>
+      <description>جلسه بیست ششم - روش تغییر پارامتر و پایداری جواب های معادله</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D8%B4%D8%B4%D9%85-%D8%B1%D9%88%D8%B4-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D9%85%D8%AA%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq748362552643.mp4" length="60501058" type="video/mp4"/>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست پنجم - دستگاه خطی معادلات دیفرانسیل، ریشه های تکراری، تابع نمایی</title>
+      <description>جلسه بیست پنجم - دستگاه خطی معادلات دیفرانسیل، ریشه های تکراری، تابع نمایی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%BE%D9%86%D8%AC%D9%85-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq615646692564.mp4" length="53166621" type="video/mp4"/>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست چهارم - دستگاه معادلات دیفرانسیل خطی؛ حالت مقدار ویژه تکراری</title>
+      <description>جلسه بیست چهارم - دستگاه معادلات دیفرانسیل خطی؛ حالت مقدار ویژه تکراری</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq55311220155.mp4" length="55843939" type="video/mp4"/>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست سوم - دستگاه معادلات دیفرانسیل خطی با ضرایب ثابت</title>
+      <description>جلسه بیست سوم - دستگاه معادلات دیفرانسیل خطی با ضرایب ثابت</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D8%B3%D9%88%D9%85-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-%D8%AE%D8%B7%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq820556984292.mp4" length="57488786" type="video/mp4"/>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست دوم - دستگاه معادلات دیفرانسیل</title>
+      <description>جلسه بیست دوم - دستگاه معادلات دیفرانسیل</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq0291412660032.mp4" length="55165586" type="video/mp4"/>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیست یکم - روش پیکار - دنباله کوشی</title>
+      <description>جلسه بیست یکم - روش پیکار - دنباله کوشی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA-%DB%8C%DA%A9%D9%85-%D8%B1%D9%88%D8%B4-%D9%BE%DB%8C%DA%A9%D8%A7%D8%B1-%D8%AF%D9%86%D8%A8%D8%A7%D9%84%D9%87-%DA%A9%D9%88%D8%B4%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq530140723169.mp4" length="57073175" type="video/mp4"/>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه بیستم - قضیه وجود یگانگی</title>
+      <description>جلسه بیستم - قضیه وجود یگانگی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA%D9%85-%D9%82%D8%B6%DB%8C%D9%87-%D9%88%D8%AC%D9%88%D8%AF-%DB%8C%DA%AF%D8%A7%D9%86%DA%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq684745900144.mp4" length="54984812" type="video/mp4"/>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه نوزدهم - حل معادلات با روس فربینیوس</title>
+      <description>جلسه نوزدهم - حل معادلات با روس فربینیوس</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%86%D9%88%D8%B2%D8%AF%D9%87%D9%85-%D8%AD%D9%84-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3-%D9%81%D8%B1%D8%A8%DB%8C%D9%86%DB%8C%D9%88%D8%B3/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq571777586643.mp4" length="61704920" type="video/mp4"/>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هجدهم - حل معادله با تکینگی های عادی</title>
+      <description>جلسه هجدهم - حل معادله با تکینگی های عادی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D8%AC%D8%AF%D9%87%D9%85-%D8%AD%D9%84-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87-%D8%AA%DA%A9%DB%8C%D9%86%DA%AF%DB%8C-%D8%B9%D8%A7%D8%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq881775942393.mp4" length="60768506" type="video/mp4"/>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هفدهم - حل کلی معادلات لوژاندر</title>
+      <description>جلسه هفدهم - حل کلی معادلات لوژاندر</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D9%81%D8%AF%D9%87%D9%85-%D8%AD%D9%84-%DA%A9%D9%84%DB%8C-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D9%84%D9%88%DA%98%D8%A7%D9%86%D8%AF%D8%B1/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq127578109238.mp4" length="59514367" type="video/mp4"/>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه شانزدهم - حل معادلات دیفرانسیل با استفاده از سری ها</title>
+      <description>جلسه شانزدهم - حل معادلات دیفرانسیل با استفاده از سری ها</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D8%A7%D9%86%D8%B2%D8%AF%D9%87%D9%85-%D8%AD%D9%84-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq807438574792.mp4" length="60805758" type="video/mp4"/>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پانزدهم - کاربرد معادلات دیفرانسیل در فیزیک</title>
+      <description>جلسه پانزدهم - کاربرد معادلات دیفرانسیل در فیزیک</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D8%A7%D9%86%D8%B2%D8%AF%D9%87%D9%85-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq689728947917.mp4" length="56635236" type="video/mp4"/>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهاردهم - کاربردهای معادلات خطی مراتب بالاتر در فیزیک</title>
+      <description>جلسه چهاردهم - کاربردهای معادلات خطی مراتب بالاتر در فیزیک</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87%D9%85-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%A7%D8%AA%D8%A8/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq931549593195.mp4" length="59495265" type="video/mp4"/>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سیزدهم - روش لاگرانژ و روش فوریه</title>
+      <description>جلسه سیزدهم - روش لاگرانژ و روش فوریه</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%DB%8C%D8%B2%D8%AF%D9%87%D9%85-%D8%B1%D9%88%D8%B4-%D9%84%D8%A7%DA%AF%D8%B1%D8%A7%D9%86%DA%98-%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq0940909188957.mp4" length="59988395" type="video/mp4"/>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دوازدهم - معادلات خطی مرتبه n غیرهمگن</title>
+      <description>جلسه دوازدهم - معادلات خطی مرتبه n غیرهمگن</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D9%87-n-%D8%BA%DB%8C%D8%B1%D9%87%D9%85%DA%AF%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq14280142367.mp4" length="51123236" type="video/mp4"/>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه یازدهم - معادلات خطی مرتبه n همگن و غیرهمگن</title>
+      <description>جلسه یازدهم - معادلات خطی مرتبه n همگن و غیرهمگن</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D9%87-n-%D9%87%D9%85%DA%AF%D9%86-%D8%BA%DB%8C%D8%B1%D9%87%D9%85%DA%AF%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq822467143265.mp4" length="58344245" type="video/mp4"/>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دهم - معادلات خطی مرتبه n با ضرایب غیرثابت</title>
+      <description>جلسه دهم - معادلات خطی مرتبه n با ضرایب غیرثابت</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%87%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D9%87-n-%D8%B6%D8%B1%D8%A7%DB%8C%D8%A8-%D8%BA%DB%8C%D8%B1%D8%AB%D8%A7%D8%A8%D8%AA/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq202836411105.mp4" length="58180918" type="video/mp4"/>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه نهم - یافتن همه جواب های معادله همگن با ضرایب ثابت و جواب های حقیقی معادله از روی جواب های مختلط</title>
+      <description>جلسه نهم - یافتن همه جواب های معادله همگن با ضرایب ثابت و جواب های حقیقی معادله از روی جواب های مختلط</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%86%D9%87%D9%85-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D9%87%D9%85%D9%87-%D8%AC%D9%88%D8%A7%D8%A8-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87-%D9%87%D9%85%DA%AF%D9%86-%D8%B6%D8%B1%D8%A7%DB%8C%D8%A8/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq0361194928198.mp4" length="61840974" type="video/mp4"/>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هشتم - معادلات خطی مرتبه n با ضرایب ثابت</title>
+      <description>جلسه هشتم - معادلات خطی مرتبه n با ضرایب ثابت</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D8%B4%D8%AA%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D9%87-n-%D8%B6%D8%B1%D8%A7%DB%8C%D8%A8-%D8%AB%D8%A7%D8%A8%D8%AA/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq981749613651.mp4" length="59184606" type="video/mp4"/>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هفتم - عملگرها</title>
+      <description>جلسه هفتم - عملگرها</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%B9%D9%85%D9%84%DA%AF%D8%B1%D9%87%D8%A7-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq915265188063.mp4" length="61881632" type="video/mp4"/>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه ششم - معادلات خطی مراتب بالاتر از 1</title>
+      <description>جلسه ششم - معادلات خطی مراتب بالاتر از 1</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D8%B4%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%85%D8%B1%D8%A7%D8%AA%D8%A8-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1-1/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq967415226988.mp4" length="62991770" type="video/mp4"/>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پنجم - معادلات دیفرانسیل کامل</title>
+      <description>جلسه پنجم - معادلات دیفرانسیل کامل</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D9%86%D8%AC%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-%DA%A9%D8%A7%D9%85%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq656887688188.mp4" length="54942225" type="video/mp4"/>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سوم - معادلات همگن</title>
+      <description>جلسه سوم - معادلات همگن</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%D9%88%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D9%87%D9%85%DA%AF%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq7959744850168647.mp4" length="214092757" type="video/mp4"/>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دوم</title>
+      <description>جلسه دوم</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch140/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%88%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq0820662479052.mp4" length="45686811" type="video/mp4"/>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

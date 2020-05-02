@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>درس ریاضی عمومی ۱ - مکتب خونه</title>
+    <link>https://maktabkhooneh.org/course/ریاضی-عمومی-۱-mk137/</link>
+    <description>&lt;div class="course-description rich-text"&gt;
+&lt;p&gt;درس ریاضی عمومی ۱ از دروس پایه تمام رشته های مهندسی می باشد. این درس در ابتدا به بررسی اعداد می پردازد و سپس درس را با معرفی دنباله ها ادامه می دهد. پس از آن درس به معرفی مفهوم تابع٬ حد٬ مشتق و انتگرال اختصاص می یابد و نهایتا با معرفی سری ها و کاربرد آنها درس پایان می یابد.&lt;/p&gt;
+&lt;/div&gt;</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://maktabkhooneh.org/media/courses/images/mirsadeghi2971425017016.png</url>
+      <title>درس ریاضی عمومی ۱ - مکتب خونه</title>
+      <link>https://maktabkhooneh.org/course/ریاضی-عمومی-۱-mk137/</link>
+    </image>
+    <language>fa</language>
+    <lastBuildDate>Sat, 02 May 2020 19:56:48 +0000</lastBuildDate>
+    <item>
+      <title>جلسه پانزدهم - سری های توانی و توابع تحلیلی</title>
+      <description>جلسه پانزدهم - سری های توانی و توابع تحلیلی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D8%A7%D9%86%D8%B2%D8%AF%D9%87%D9%85-%D8%B3%D8%B1%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq23041393008937916.mp4" length="261411812" type="video/mp4"/>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهاردهم بخش ۳ - همگرایی مطلق</title>
+      <description>جلسه چهاردهم بخش ۳ - همگرایی مطلق</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B3-%D9%87%D9%85%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D9%85%D8%B7%D9%84%D9%82/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq025577410311938942.mp4" length="108091338" type="video/mp4"/>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهاردهم بخش ۲ - سری های عددی</title>
+      <description>جلسه چهاردهم بخش ۲ - سری های عددی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D8%B3%D8%B1%DB%8C-%D8%B9%D8%AF%D8%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq857022912656218.mp4" length="189538338" type="video/mp4"/>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهاردهم بخش ۱ - سری های عددی</title>
+      <description>جلسه چهاردهم بخش ۱ - سری های عددی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%B3%D8%B1%DB%8C-%D8%B9%D8%AF%D8%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq12050358968557728.mp4" length="143812132" type="video/mp4"/>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سیزدهم - انتگرال ناسره</title>
+      <description>جلسه سیزدهم - انتگرال ناسره</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%DB%8C%D8%B2%D8%AF%D9%87%D9%85-%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84-%D9%86%D8%A7%D8%B3%D8%B1%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq6300486753145327.mp4" length="165468592" type="video/mp4"/>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دوازدهم - تابع نمایی</title>
+      <description>جلسه دوازدهم - تابع نمایی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%86%D9%85%D8%A7%DB%8C%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq9196535234732229.mp4" length="133343803" type="video/mp4"/>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه یازدهم بخش ۲ - انتگرال توابع گویا</title>
+      <description>جلسه یازدهم بخش ۲ - انتگرال توابع گویا</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%DA%AF%D9%88%DB%8C%D8%A7/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq4923810033941882.mp4" length="196461707" type="video/mp4"/>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه یازدهم بخش ۱ - تغییر متغیر و انتگرال جز به جز</title>
+      <description>جلسه یازدهم بخش ۱ - تغییر متغیر و انتگرال جز به جز</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84-%D8%AC%D8%B2-%D8%AC%D8%B2/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq04352014595561826.mp4" length="148588419" type="video/mp4"/>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دهم بخش ۳ - لگاریتم</title>
+      <description>جلسه دهم بخش ۳ - لگاریتم</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B3-%D9%84%DA%AF%D8%A7%D8%B1%DB%8C%D8%AA%D9%85/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq8449120445892411.mp4" length="78344931" type="video/mp4"/>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دهم بخش ۲ - ویژگی های انتگرال و قضیه حساب دیفرانسیل و انتگرال</title>
+      <description>جلسه دهم بخش ۲ - ویژگی های انتگرال و قضیه حساب دیفرانسیل و انتگرال</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84-%D9%82%D8%B6%DB%8C%D9%87-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq4732889970579971.mp4" length="102906700" type="video/mp4"/>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دهم بخش ۱ - تعریف انتگرال</title>
+      <description>جلسه دهم بخش ۱ - تعریف انتگرال</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D8%A7%D9%86%D8%AA%DA%AF%D8%B1%D8%A7%D9%84/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq5991052268801917.mp4" length="215451356" type="video/mp4"/>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه نهم بخش ۲ - بهینه سازی</title>
+      <description>جلسه نهم بخش ۲ - بهینه سازی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%86%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq10949926994796455.mp4" length="121730899" type="video/mp4"/>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه نهم بخش ۱ - نمودار تابع و کاربردهای آن</title>
+      <description>جلسه نهم بخش ۱ - نمودار تابع و کاربردهای آن</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%86%D9%87%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%AA%D8%A7%D8%A8%D8%B9-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%A2%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq3396393112578254.mp4" length="163014332" type="video/mp4"/>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هشتم بخش ۲ - چند جمله ای تیلور و تقریب های مرتبه بالا</title>
+      <description>جلسه هشتم بخش ۲ - چند جمله ای تیلور و تقریب های مرتبه بالا</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D8%B4%D8%AA%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%DA%86%D9%86%D8%AF-%D8%AC%D9%85%D9%84%D9%87-%D8%AA%DB%8C%D9%84%D9%88%D8%B1-%D8%AA%D9%82%D8%B1%DB%8C%D8%A8-%D9%85%D8%B1%D8%AA%D8%A8%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq48337042989640944.mp4" length="200810105" type="video/mp4"/>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هشتم بخش ۱ - تقریب خطی</title>
+      <description>جلسه هشتم بخش ۱ - تقریب خطی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D8%B4%D8%AA%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%AA%D9%82%D8%B1%DB%8C%D8%A8-%D8%AE%D8%B7%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq5616171805026492.mp4" length="123010992" type="video/mp4"/>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هفتم بخش ۳ - قاعده زنجیری و نمادگذاری لایب نیتس</title>
+      <description>جلسه هفتم بخش ۳ - قاعده زنجیری و نمادگذاری لایب نیتس</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B3-%D9%82%D8%A7%D8%B9%D8%AF%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%DB%8C-%D9%86%D9%85%D8%A7%D8%AF%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D8%A8/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq30117140188902614.mp4" length="123872058" type="video/mp4"/>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هفتم بخش ۲ - نتایج مشتق پذیری و خواص توابع مشتق پذیر</title>
+      <description>جلسه هفتم بخش ۲ - نتایج مشتق پذیری و خواص توابع مشتق پذیر</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D9%85%D8%B4%D8%AA%D9%82-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%D8%AE%D9%88%D8%A7%D8%B5-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq1369140525397613.mp4" length="207932418" type="video/mp4"/>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه هفتم بخش ۱ - تعریف مشتق</title>
+      <description>جلسه هفتم بخش ۱ - تعریف مشتق</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%85%D8%B4%D8%AA%D9%82/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq8870852545475739.mp4" length="170741181" type="video/mp4"/>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه ششم بخش ۲ - مفهوم حد</title>
+      <description>جلسه ششم بخش ۲ - مفهوم حد</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D8%B4%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AD%D8%AF/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq41355495179402757.mp4" length="103015512" type="video/mp4"/>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه ششم بخش ۱ - مفهوم حد</title>
+      <description>جلسه ششم بخش ۱ - مفهوم حد</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D8%B4%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AD%D8%AF/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq8439278214968332.mp4" length="115817576" type="video/mp4"/>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پنجم بخش ۴ - توابع مثلثاتی و بررسی پیوستگی آنها</title>
+      <description>جلسه پنجم بخش ۴ - توابع مثلثاتی و بررسی پیوستگی آنها</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D9%86%D8%AC%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B4-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D9%85%D8%AB%D9%84%D8%AB%D8%A7%D8%AA%DB%8C-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%DA%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq3654794720403889.mp4" length="52124034" type="video/mp4"/>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پنجم بخش ۳ - توابع پیوسته و خواص آن ها</title>
+      <description>جلسه پنجم بخش ۳ - توابع پیوسته و خواص آن ها</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D9%86%D8%AC%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B3-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D8%AE%D9%88%D8%A7%D8%B5-%D8%A2%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq505800605583616.mp4" length="79100144" type="video/mp4"/>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پنجم بخش ۲ - توابع پیوسته و خواص آن ها</title>
+      <description>جلسه پنجم بخش ۲ - توابع پیوسته و خواص آن ها</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D9%86%D8%AC%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%D9%87-%D8%AE%D9%88%D8%A7%D8%B5-%D8%A2%D9%86/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq2115504896565269.mp4" length="209365511" type="video/mp4"/>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه پنجم بخش ۱ - پایداری محاسبه</title>
+      <description>جلسه پنجم بخش ۱ - پایداری محاسبه</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D9%BE%D9%86%D8%AC%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq507085796038253.mp4" length="140952456" type="video/mp4"/>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهارم بخش 2 - همگرایی دنباله های عددی</title>
+      <description>جلسه چهارم بخش 2 - همگرایی دنباله های عددی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%A8%D8%AE%D8%B4-2-%D9%87%D9%85%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D9%86%D8%A8%D8%A7%D9%84%D9%87-%D8%B9%D8%AF%D8%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq4462867050503414.mp4" length="171633802" type="video/mp4"/>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه چهارم بخش ۱ - دنباله های عددی</title>
+      <description>جلسه چهارم بخش ۱ - دنباله های عددی</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D8%AF%D9%86%D8%A8%D8%A7%D9%84%D9%87-%D8%B9%D8%AF%D8%AF%DB%8C/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq4020182403848672.mp4" length="88437918" type="video/mp4"/>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سوم بخش ۳ - اعداد مختلط</title>
+      <description>جلسه سوم بخش ۳ - اعداد مختلط</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%D9%88%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B3-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-%D9%85%D8%AE%D8%AA%D9%84%D8%B7/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq48183104657127274.mp4" length="136165348" type="video/mp4"/>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سوم بخش ۲ - اعداد مختلط</title>
+      <description>جلسه سوم بخش ۲ - اعداد مختلط</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%D9%88%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B2-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-%D9%85%D8%AE%D8%AA%D9%84%D8%B7/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq2748119636466584.mp4" length="116785346" type="video/mp4"/>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه سوم بخش ۱ - معادلات درجه دو و سه</title>
+      <description>جلسه سوم بخش ۱ - معادلات درجه دو و سه</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AC%D9%84%D8%B3%D9%87-%D8%B3%D9%88%D9%85-%D8%A8%D8%AE%D8%B4-%DB%B1-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%D8%B1%D8%AC%D9%87-%D8%AF%D9%88-%D8%B3%D9%87/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq16709762746079837.mp4" length="84926740" type="video/mp4"/>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه دوم - اعداد</title>
+      <description>جلسه دوم - اعداد</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%AF%D9%88%D9%85-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq6411286066474945.mp4" length="213285953" type="video/mp4"/>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>جلسه اول - اعداد</title>
+      <description>جلسه اول - اعداد</description>
+      <guid isPermaLink="false">https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-ch185/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%D9%88%D9%84-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1/</guid>
+      <enclosure url="https://cdn.maktabkhooneh.org/videos/hq2761089793300584.mp4" length="188452331" type="video/mp4"/>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
